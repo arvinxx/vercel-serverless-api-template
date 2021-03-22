@@ -1,8 +1,8 @@
 {
-  "name": "vercel-serveless-api-template",
+  "name": "vercel-serverless-api-template",
   "version": "1.0.0",
   "private": true,
-  "description": "基于 Vercel 的免费 Serviceless api 模板",
+  "description": "基于 Vercel 的免费 Serverless api 模板",
   "repository": "https://github.com/arvinxx/vercel-serveless-api-template.git",
   "scripts": {
     "start": "vercel dev",

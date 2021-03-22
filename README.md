@@ -1,7 +1,9 @@
-# API 接口
+# Vercel Serverless Api Template
 
 [![Coverage][coverage]][codecov-url] ![Test CI status][test-ci]
 
-[test-ci]: https://github.com/arvinxx/api/workflows/Test/badge.svg
-[coverage]: https://codecov.io/gh/arvinxx/api/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/arvinxx/api/branch/master
+[test-ci]: https://github.com/arvinxx/vercel-serveless-api-template/workflows/Test/badge.svg
+[coverage]: https://codecov.io/gh/arvinxx/vercel-serveless-api-template/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/arvinxx/vercel-serveless-api-template/branch/master
+
+基于 Vercel 的免费 Serverless api 模板
