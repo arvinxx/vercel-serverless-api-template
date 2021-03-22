@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['semantic-release-config'],
+  extends: ['semantic-release-config-gitmoji'],
 };
