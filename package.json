@@ -8,6 +8,7 @@
     "start": "vercel dev",
     "test": "jest",
     "test:coverage": "jest --coverage",
+    "release": "semantic-release",
     "-------     ": "",
     "lint": "yarn lint:js && yarn lint:prettier",
     "lint-staged:js": "eslint --ext .js,.jsx,.ts,.tsx ",
