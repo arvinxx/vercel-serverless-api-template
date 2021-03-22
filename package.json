@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "基于 Vercel 的免费 Serverless api 模板",
-  "repository": "https://github.com/arvinxx/vercel-serveless-api-template.git",
+  "repository": "https://github.com/arvinxx/vercel-serverless-api-template.git",
   "scripts": {
     "start": "vercel dev",
     "test": "jest",
