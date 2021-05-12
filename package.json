@@ -33,7 +33,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^26.0.23",
-    "@types/lodash": "^4.14.144",
+    "@types/lodash": "^4.14.169",
     "@umijs/test": "^3.4.20",
     "@umijs/fabric": "^2.5.13",
     "@vercel/node": "^1.10.0",
