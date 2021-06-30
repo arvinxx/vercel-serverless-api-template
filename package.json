@@ -34,7 +34,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@types/lodash": "^4.14.170",
-    "@umijs/test": "^3.4.25",
+    "@umijs/test": "^3.5.0",
     "@umijs/fabric": "^2.6.2",
     "@vercel/node": "^1.11.1",
     "chalk": "^4.1.1",
