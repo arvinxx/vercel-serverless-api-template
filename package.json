@@ -44,7 +44,7 @@
     "dotenv": "^8.5.1",
     "eslint": "^7.32.0",
     "husky": "^4.3.8",
-    "lint-staged": "^10.0.0",
+    "lint-staged": "^11.1.1",
     "prettier": "^2.3.2",
     "semantic-release": "^17.4.4",
     "semantic-release-config-gitmoji": "^1.2.4",
