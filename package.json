@@ -36,7 +36,7 @@
     "@types/lodash": "^4.14.172",
     "@umijs/test": "^3.5.15",
     "@umijs/fabric": "^2.6.2",
-    "@vercel/node": "^1.11.1",
+    "@vercel/node": "^1.12.0",
     "chalk": "^4.1.2",
     "commitlint": "^12.1.4",
     "commitlint-config-gitmoji": "^2.2.5",
