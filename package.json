@@ -35,7 +35,7 @@
     "@types/jest": "^26.0.24",
     "@types/lodash": "^4.14.172",
     "@umijs/test": "^3.5.17",
-    "@umijs/fabric": "^2.6.2",
+    "@umijs/fabric": "^2.6.4",
     "@vercel/node": "^1.12.1",
     "chalk": "^4.1.2",
     "commitlint": "^12.1.4",
