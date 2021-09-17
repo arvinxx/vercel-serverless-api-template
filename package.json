@@ -32,7 +32,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "@types/jest": "^26.0.24",
+    "@types/jest": "^27.0.1",
     "@types/lodash": "^4.14.173",
     "@umijs/test": "^3.5.19",
     "@umijs/fabric": "^2.8.0",
