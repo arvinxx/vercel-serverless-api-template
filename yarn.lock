@@ -2095,10 +2095,10 @@
     jest-worker "24.9.0"
     prettier "2.2.1"
 
-"@umijs/fabric@^2.8.1":
-  version "2.8.1"
-  resolved "https://registry.yarnpkg.com/@umijs/fabric/-/fabric-2.8.1.tgz#fbd3009669561d55e35949aa8a058003c54d30db"
-  integrity sha512-Tzm5Er1j8fFwGo+tc3YSA6zUvupv7QeMlYuOnjdXUc8GAR1t+KXj7hqSA8VWiR4qpYeDGJ/b9rH3PCbDkgwX9Q==
+"@umijs/fabric@^2.9.0":
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/@umijs/fabric/-/fabric-2.9.0.tgz#c9181f310583d9f0e61fe48faaa3c83f9aae07a6"
+  integrity sha512-WWqyShrZZd5Om+UlFIF9pfO6pYNntPI2lK+gMF6NpStACKuMhzNZJl2Ue5IWF13pJqL9xA5rp7D372vh3Qs7qg==
   dependencies:
     "@babel/core" "^7.12.10"
     "@babel/eslint-parser" "^7.12.1"
@@ -2123,7 +2123,7 @@
     os-locale "^5.0.0"
     prettier "^2.3.2"
     prettier-plugin-two-style-order "^1.0.0"
-    stylelint "^13.7.0"
+    stylelint "^13.0.0"
     stylelint-config-css-modules "^2.2.0"
     stylelint-config-prettier "^8.0.1"
     stylelint-config-standard "^20.0.0"
@@ -9992,7 +9992,7 @@ stylelint-declaration-block-no-ignored-properties@^2.1.0:
   dependencies:
     postcss "^7.0.27"
 
-stylelint@^13.13.1, stylelint@^13.7.0:
+stylelint@^13.0.0, stylelint@^13.13.1:
   version "13.13.1"
   resolved "https://registry.yarnpkg.com/stylelint/-/stylelint-13.13.1.tgz#fca9c9f5de7990ab26a00f167b8978f083a18f3c"
   integrity sha512-Mv+BQr5XTUrKqAXmpqm6Ddli6Ief+AiPZkRsIrAoUKFuq/ElkUh9ZMYxXD0iQNZ5ADghZKLOWz1h7hTClB7zgQ==
