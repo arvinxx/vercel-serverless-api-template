@@ -2235,10 +2235,10 @@
     ts-node "8.9.1"
     typescript "3.9.3"
 
-"@vercel/node@^1.12.1":
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.12.1.tgz#15f42f64690f904f8a52a387123ce0958657060f"
-  integrity sha512-NcawIY05BvVkWlsowaxF2hl/hJg475U8JvT2FnGykFPMx31q1/FtqyTw/awSrKfOSRXR0InrbEIDIelmS9NzPA==
+"@vercel/node@^1.13.0":
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.13.0.tgz#619595e1c90afeb1ad68ea6fa3652f7b3f682245"
+  integrity sha512-AqdUuJC0+r3q1lcL+Knjb+dHsSDSCRfwFPJ7odRkHO7sfoAkhJI4RussIDFTF7Yvt0e+GmWuYGFAgwSiv4FWEg==
   dependencies:
     "@types/node" "*"
     ts-node "8.9.1"
