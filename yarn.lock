@@ -2073,10 +2073,10 @@
     prettier "2.2.1"
     regenerate-unicode-properties "9.0.0"
 
-"@umijs/fabric@^2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@umijs/fabric/-/fabric-2.12.0.tgz#571928fc1257bd801e028c31aa5fa57ac8831284"
-  integrity sha512-RovM8wdFi2LiYhc2OgR+9T/nmv8JldScu/SKXU5+ql6kTcQ+WPz4FbkiR9AUw6jK0X+srr1twMX6zclpkCk1ZQ==
+"@umijs/fabric@^2.12.1":
+  version "2.12.1"
+  resolved "https://registry.yarnpkg.com/@umijs/fabric/-/fabric-2.12.1.tgz#b4b6f6dc6e5242cf0b1b6d285becc163999d79b5"
+  integrity sha512-iQPMUI1zEPAm+fjDXskA47EB4MJG/jaOh4rleizMbtTBhY3Vg8gKU4CV4pYJrjLWSxQJQfThP1D1g+jLvtkA4g==
   dependencies:
     "@babel/core" "^7.12.10"
     "@babel/eslint-parser" "^7.12.1"
@@ -2100,7 +2100,6 @@
     fast-glob "^3.2.4"
     os-locale "^5.0.0"
     prettier "^2.3.2"
-    prettier-plugin-organize-imports "^2.3.4"
     prettier-plugin-packagejson "^2.2.18"
     prettier-plugin-two-style-order "^1.0.0"
     stylelint "^13.0.0"
@@ -8350,11 +8349,6 @@ prepend-http@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/prepend-http/download/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897"
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
-
-prettier-plugin-organize-imports@^2.3.4:
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-organize-imports/-/prettier-plugin-organize-imports-2.3.4.tgz#65473861ae5ab7960439fff270a2258558fbe9ba"
-  integrity sha512-R8o23sf5iVL/U71h9SFUdhdOEPsi3nm42FD/oDYIZ2PQa4TNWWuWecxln6jlIQzpZTDMUeO1NicJP6lLn2TtRw==
 
 prettier-plugin-packagejson@^2.2.18:
   version "2.2.18"
