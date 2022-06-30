@@ -2073,10 +2073,10 @@
     prettier "2.2.1"
     regenerate-unicode-properties "9.0.0"
 
-"@umijs/fabric@^2.12.1":
-  version "2.12.1"
-  resolved "https://registry.yarnpkg.com/@umijs/fabric/-/fabric-2.12.1.tgz#b4b6f6dc6e5242cf0b1b6d285becc163999d79b5"
-  integrity sha512-iQPMUI1zEPAm+fjDXskA47EB4MJG/jaOh4rleizMbtTBhY3Vg8gKU4CV4pYJrjLWSxQJQfThP1D1g+jLvtkA4g==
+"@umijs/fabric@^2.12.2":
+  version "2.12.2"
+  resolved "https://registry.yarnpkg.com/@umijs/fabric/-/fabric-2.12.2.tgz#31df21bfdd2c6b2bff90fbfde5321cb04d79724b"
+  integrity sha512-3fLQ3SOFmyzEbv0ELUPBRMfgMGNkWtJVnhgMmcvgtOfq4g3croDVKQetxjfjJ3cfYqVGtFfbQJ//RuEdYU3+2A==
   dependencies:
     "@babel/core" "^7.12.10"
     "@babel/eslint-parser" "^7.12.1"
