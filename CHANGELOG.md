@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.1](https://github.com/arvinxx/vercel-serverless-api-template/compare/v1.0.0...v1.0.1) (2023-01-08)
+
+### 🎫 杂项
+
+- 优化发布配置，不发布 npm 包 ([df28128](https://github.com/arvinxx/vercel-serverless-api-template/commit/df28128))
+
+### 🐛 修复
+
+- 修正 release 问题 ([2c645f2](https://github.com/arvinxx/vercel-serverless-api-template/commit/2c645f2))
+
 # 1.0.0 (2023-01-08)
 
 ### ✅ 测试
