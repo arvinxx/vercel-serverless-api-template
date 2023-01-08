@@ -16,7 +16,7 @@
     "release": "semantic-release",
     "start": "vercel dev",
     "test": "jest --passWithNoTests",
-    "test:coverage": "jest --coverage",
+    "test:coverage": "jest --coverage  --passWithNoTests",
     "type-check": "tsc --noEmit"
   },
   "lint-staged": {
