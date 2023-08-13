@@ -1,5 +1,18 @@
 # Changelog
 
+# [1.1.0](https://github.com/arvinxx/vercel-serverless-api-template/compare/v1.0.1...v1.1.0) (2023-08-13)
+
+### ✨ 新特性
+
+- 升级基础设施 ([2be248e](https://github.com/arvinxx/vercel-serverless-api-template/commit/2be248e))
+
+### 🐛 修复
+
+- 删除不必要的依赖 ([9d79d9c](https://github.com/arvinxx/vercel-serverless-api-template/commit/9d79d9c))
+- 升级 node 版本 ([88f840a](https://github.com/arvinxx/vercel-serverless-api-template/commit/88f840a))
+- 升级 pnpm 版本 ([90e382e](https://github.com/arvinxx/vercel-serverless-api-template/commit/90e382e))
+- 更新测试配置 ([6268bce](https://github.com/arvinxx/vercel-serverless-api-template/commit/6268bce))
+
 ## [1.0.1](https://github.com/arvinxx/vercel-serverless-api-template/compare/v1.0.0...v1.0.1) (2023-01-08)
 
 ### 🎫 杂项
