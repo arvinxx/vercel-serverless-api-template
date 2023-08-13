@@ -31,10 +31,7 @@
     "not ie <= 10"
   ],
   "devDependencies": {
-    "@types/jest": "^29",
-    "@types/lodash": "^4",
     "@umijs/lint": "^4",
-    "@umijs/test": "^4",
     "@vercel/node": "^2",
     "@vitest/coverage-v8": "latest",
     "chalk": "^5",
