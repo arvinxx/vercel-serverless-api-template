@@ -15,8 +15,8 @@
     "prettier": "prettier -c --write \"api/**/*\"",
     "release": "semantic-release",
     "start": "vercel dev",
-    "test": "jest --passWithNoTests",
-    "test:coverage": "jest --coverage  --passWithNoTests",
+    "test": "vitest --passWithNoTests",
+    "test:coverage": "vitest --coverage  --passWithNoTests",
     "type-check": "tsc --noEmit"
   },
   "lint-staged": {
@@ -36,6 +36,7 @@
     "@umijs/lint": "^4",
     "@umijs/test": "^4",
     "@vercel/node": "^2",
+    "@vitest/coverage-v8": "latest",
     "chalk": "^5",
     "commitlint": "^17",
     "commitlint-config-gitmoji": "^2",
